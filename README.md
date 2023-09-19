@@ -1,5 +1,5 @@
 # Tools
-Collection of Tools I am creating to make everyday work tasks easier!
+Collection of tools I am creating to make everyday work tasks easier!
 
 ## Google Search Tool
 
